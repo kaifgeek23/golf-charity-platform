@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://your-backend-url.onrender.com"
+  baseURL: "https://golf-charity-platform-esvx.onrender.com"
 });
 
 export default api;
