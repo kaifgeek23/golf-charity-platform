@@ -189,15 +189,6 @@ npm run dev
 * Database design & query handling
 * Deployment (Vercel + Render)
 
-
-
-
-
-If you’d like to discuss this project or collaborate:
-
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
 ---
 
 ⭐ If you found this project interesting, feel free to star the repo!
